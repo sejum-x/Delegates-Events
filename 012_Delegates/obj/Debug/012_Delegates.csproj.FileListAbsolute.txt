@@ -1,0 +1,7 @@
+D:\sejum\ITVD-Webinar-on-Delegates-and-Events\012_Delegates\bin\Debug\012_Delegates.exe.config
+D:\sejum\ITVD-Webinar-on-Delegates-and-Events\012_Delegates\bin\Debug\012_Delegates.exe
+D:\sejum\ITVD-Webinar-on-Delegates-and-Events\012_Delegates\bin\Debug\012_Delegates.pdb
+D:\sejum\ITVD-Webinar-on-Delegates-and-Events\012_Delegates\obj\Debug\012_Delegates.csproj.AssemblyReference.cache
+D:\sejum\ITVD-Webinar-on-Delegates-and-Events\012_Delegates\obj\Debug\012_Delegates.csproj.CoreCompileInputs.cache
+D:\sejum\ITVD-Webinar-on-Delegates-and-Events\012_Delegates\obj\Debug\012_Delegates.exe
+D:\sejum\ITVD-Webinar-on-Delegates-and-Events\012_Delegates\obj\Debug\012_Delegates.pdb
